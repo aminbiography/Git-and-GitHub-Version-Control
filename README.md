@@ -1,4 +1,4 @@
-# Git and GitHub Version Control
+# Git and GitHub Version Control  
 
 A practical reference guide to Git commands, GitHub repository management, version control workflows, and Markdown formatting for GitHub README files.
 
